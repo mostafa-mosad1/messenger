@@ -252,7 +252,7 @@ class _MessengerScreenState extends State<MessengerScreen> {
                               children: [
                                 Expanded(
                                   child: Text(
-                                    'hello my name is abdullah ahmed hello my name is abdullah ahmed',
+                                    'hello my name is abdullah ahmed hello my ..........',
                                     maxLines: 1,
                                     overflow: TextOverflow.ellipsis,
                                   ),
@@ -339,7 +339,7 @@ class _MessengerScreenState extends State<MessengerScreen> {
                   children: [
                     Expanded(
                       child: Text(
-                        'hello my name is abdullah ahmed hello my name is abdullah ahmed',
+                        'hello my name is abdullah ahmed hello my name .......',
                         maxLines: 1,
                         overflow: TextOverflow.ellipsis,
                       ),
